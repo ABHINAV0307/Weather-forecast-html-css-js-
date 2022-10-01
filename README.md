@@ -1,3 +1,4 @@
 # Weather-forecast-html-css-js-
-web page for weather forecast using html , css and js
-<https://weather-forecast-mz.netlify.app/>
+Welcome to our website 
+We have made weather forecasting website using HTML , CSS and JS 
+To check more kindly visit: <https://weather-forecast-mz.netlify.app/>
